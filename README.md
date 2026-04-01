@@ -1,4 +1,4 @@
-# 🔧 GearGuard - The Ultimate Maintenance Tracker
+# 🔧 GearGuard - The Ultimate Maintenance Tracker.
 
 <div align="center">
 
@@ -365,5 +365,6 @@ All features implemented • Fully documented • Security hardened
 **GearGuard** - Making Maintenance Simple and Efficient! ⚙️
 
 **Ready to get started?** → [QUICK_START.md](QUICK_START.md)
-#   G e a r G u a r d  
+#   G e a r G u a r d 
+ 
  
